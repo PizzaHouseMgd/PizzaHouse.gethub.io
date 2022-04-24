@@ -49,6 +49,10 @@ h6 {
 	font-weight: 400;
 	font-family: "Cairo", sans-serif;
 }
+
+#hnd {
+	color: gray;
+}
 #k {
 	color: #fff;
 
